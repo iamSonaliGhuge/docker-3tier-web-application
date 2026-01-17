@@ -165,8 +165,6 @@ This project demonstrates a complete Dockerized three-tier web application deplo
 
 Sonali Ghuge
 
-Gitub : https://github.com/iamSonaliGhuge/docker-3tier-web-application.git
+Gitub :https://github.com/iamSonaliGhuge
 
-Medium: 
-
-Linkedin: 
+Linkedin: https://tinyurl.com/sonalighuge
